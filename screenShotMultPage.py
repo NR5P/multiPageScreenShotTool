@@ -6,6 +6,12 @@ import img2pdf
 # pyautogui.PAUSE = 1
 pyautogui.FAILSAFE = True
 
+################################################
+# place your own x, y coordinates as well as page numbers below
+# pyautogui.position() method in a python runtime can be used
+# to find coordinates you want
+################################################
+
 upper_x = 1410
 upper_y = 101
 
